@@ -1,9 +1,9 @@
 ## Oiiii! Me chamo Ludmyla Toledo, sou estudante do curso de desenvolvedor Full Stack Java da EBAC.
 
 🌐 Redes Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ludmyla_toledo/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludmyla-marcelino-toledo-b3364029a/)
-[![Youtube](https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)](https://www.youtube.com/@ludyplays7626)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ludmyla_toledo/) <br/>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludmyla-marcelino-toledo-b3364029a/) <br/>
+[![Youtube](https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)](https://www.youtube.com/@ludyplays7626) <br/>
 
 💻 Tecnologias:
 <div style="display: inline_block"><br/>
@@ -19,6 +19,6 @@
   <img align="center" alt="RUBY" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-</div>
+</div><br/>
 
 ![Ludy GitHub stats](https://github-readme-stats.vercel.app/api?username=LudySK8&show_icons=true&theme=dracula)
